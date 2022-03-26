@@ -11,7 +11,7 @@ public class Car {
     }
 
     public String getColor() {
-        return color;
+        return color + ".";
     }
 
     public void setColor(String color) {
