@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TestCar {
     @Test
-    public void testCopieLibro(){
+    public static void testCopieLibro(){
         Car car = new Car();
         assertEquals(car.getColor(),"red");
     }
