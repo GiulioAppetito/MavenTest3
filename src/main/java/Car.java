@@ -18,6 +18,6 @@ public class Car {
         this.color = color;
     }
     public void random(){
-        System.out.println("Hello world. ");
+        System.out.println("Hello world...");
     }
 }
